@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "constituency": "Some Constituency",
+          "region": "Some Region"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-0.123, 51.48],
+              [-0.12, 51.49]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+  
